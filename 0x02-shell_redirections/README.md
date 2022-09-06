@@ -1,1 +1,1 @@
-a script that displays all users and their home directories, sorted by users.
+a script that duplicates the last line of the file iacta.
